@@ -5,6 +5,6 @@ def sub(a,b):
 def mul(a,b):
     return a*b
 if __name__=="__main__":
-    print("addition:",add(10,5))
+    print("addition:",add(15,5))
     print("subtraction:",sub(10,5))
     print("multiplication:",mul(10,5))
